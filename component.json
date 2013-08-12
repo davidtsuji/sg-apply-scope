@@ -1,0 +1,19 @@
+{
+	"name": "sg-apply-scope",
+	"repo": "davidtsuji/sg-apply-scope",
+	"description": "Safely run angular's scope.$apply()",
+	"version": "0.0.1",
+	"main": "index.js",
+	"scripts": [
+		"index.js"
+	],
+	"dependencies": {
+		"component/type": "*",
+		"davidtsuji/sg-sanitize-arguments": "*"
+	},
+	"development":{
+		"visionmedia/mocha": "*",
+		"component/assert": "*",
+		"davidtsuji/angular.js": "*"
+	}
+}
