@@ -4,7 +4,9 @@ Safely run angular's scope.$apply()
 
 ## Installation
 
+```sh
 $ component install davidtsuji/sg-apply-scope
+```
 
 ## API
 
